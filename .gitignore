@@ -1,0 +1,9 @@
+**/target/
+**/node_modules/
+**/.angular/
+**/dist/
+.idea/
+.vscode/
+*.iml
+*.log
+.env
